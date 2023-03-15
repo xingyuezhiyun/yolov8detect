@@ -1,1 +1,1 @@
-# yolov8detect
+# imagedetect
